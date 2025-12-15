@@ -1,4 +1,3 @@
-# -Beginning
-This is my first github repository.
-<br>
-Author - Aditi Kumari
+Tomato disease training and testing 
+first project of deep learning
+
